@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestionTurnos", "GestionTurnos\GestionTurnos.csproj", "{9C2BC487-3F44-49D0-BB4A-D39962241DB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormApp", "WinFormApp\WinFormApp.csproj", "{9B126A30-B57D-46ED-9B44-D32E50550E83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C2BC487-3F44-49D0-BB4A-D39962241DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2BC487-3F44-49D0-BB4A-D39962241DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2BC487-3F44-49D0-BB4A-D39962241DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2BC487-3F44-49D0-BB4A-D39962241DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B126A30-B57D-46ED-9B44-D32E50550E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B126A30-B57D-46ED-9B44-D32E50550E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B126A30-B57D-46ED-9B44-D32E50550E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B126A30-B57D-46ED-9B44-D32E50550E83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C07E2E3-5002-4535-8144-37BC937ACAD8}
+	EndGlobalSection
+EndGlobal

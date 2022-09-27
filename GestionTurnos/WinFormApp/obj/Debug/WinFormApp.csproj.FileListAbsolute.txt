@@ -1,0 +1,12 @@
+C:\Users\Martin\Downloads\GestionTurnos\WinFormApp\bin\Debug\WinFormApp.exe.config
+C:\Users\Martin\Downloads\GestionTurnos\WinFormApp\bin\Debug\WinFormApp.exe
+C:\Users\Martin\Downloads\GestionTurnos\WinFormApp\bin\Debug\WinFormApp.pdb
+C:\Users\Martin\Downloads\GestionTurnos\WinFormApp\obj\Debug\WinFormApp.csproj.AssemblyReference.cache
+C:\Users\Martin\Downloads\GestionTurnos\WinFormApp\obj\Debug\WinFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin\Downloads\GestionTurnos\WinFormApp\obj\Debug\WinFormApp.Form1.resources
+C:\Users\Martin\Downloads\GestionTurnos\WinFormApp\obj\Debug\WinFormApp.Properties.Resources.resources
+C:\Users\Martin\Downloads\GestionTurnos\WinFormApp\obj\Debug\WinFormApp.csproj.GenerateResource.cache
+C:\Users\Martin\Downloads\GestionTurnos\WinFormApp\obj\Debug\WinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Downloads\GestionTurnos\WinFormApp\obj\Debug\WinFormApp.exe
+C:\Users\Martin\Downloads\GestionTurnos\WinFormApp\obj\Debug\WinFormApp.pdb
+C:\Users\Martin\Downloads\GestionTurnos\WinFormApp\obj\Debug\WinFormApp.Form2.resources
